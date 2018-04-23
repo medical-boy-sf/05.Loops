@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.VowelsSum", "09.VowelsSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HalfSum", "10.HalfSum\10.HalfSum.csproj", "{3A053B75-ADF0-4B06-BE8D-7826D4B7C0F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.AddEvenPosition", "11.AddEvenPosition\11.AddEvenPosition.csproj", "{22B6559B-4073-4ADB-860D-A082D60CE485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{3A053B75-ADF0-4B06-BE8D-7826D4B7C0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A053B75-ADF0-4B06-BE8D-7826D4B7C0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A053B75-ADF0-4B06-BE8D-7826D4B7C0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B6559B-4073-4ADB-860D-A082D60CE485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B6559B-4073-4ADB-860D-A082D60CE485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B6559B-4073-4ADB-860D-A082D60CE485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B6559B-4073-4ADB-860D-A082D60CE485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
