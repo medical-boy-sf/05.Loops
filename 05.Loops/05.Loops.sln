@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HalfSum", "10.HalfSum\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.AddEvenPosition", "11.AddEvenPosition\11.AddEvenPosition.csproj", "{22B6559B-4073-4ADB-860D-A082D60CE485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.EqualPairs", "12.EqualPairs\12.EqualPairs.csproj", "{F806B555-68C5-4E55-A634-9B8DB16A76A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{22B6559B-4073-4ADB-860D-A082D60CE485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B6559B-4073-4ADB-860D-A082D60CE485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B6559B-4073-4ADB-860D-A082D60CE485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F806B555-68C5-4E55-A634-9B8DB16A76A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F806B555-68C5-4E55-A634-9B8DB16A76A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F806B555-68C5-4E55-A634-9B8DB16A76A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F806B555-68C5-4E55-A634-9B8DB16A76A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
